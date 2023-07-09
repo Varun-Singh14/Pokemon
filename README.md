@@ -15,9 +15,9 @@
  
  Main source is Bulbapedia for Images.
  
- <img src="https://raw.githubusercontent.com/Varun-Singh14/Pokemon/master/assets/images/006-Gmax.png" width=200px/> 
- <img src="https://raw.githubusercontent.com/Varun-Singh14/Pokemon/master/assets/images/384-Mega.png" width=200px/> 
- <img src="https://raw.githubusercontent.com/Varun-Singh14/Pokemon/master/assets/images/807.png" width=200px/>
+ <img src="https://raw.githubusercontent.com/Varun-Singh14/Pokemon/master/assets/images/006-Gmax.png" width=200px/> <br />
+ <img src="https://raw.githubusercontent.com/Varun-Singh14/Pokemon/master/assets/images/384-Mega.png" width=200px/> <br />
+ <img src="https://raw.githubusercontent.com/Varun-Singh14/Pokemon/master/assets/images/807.png" width=200px/><br />
  
 # Currently Available:
  *All Forms Included*
