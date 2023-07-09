@@ -11,7 +11,7 @@
  
  This repository will be available as a public host for the highest quality Pokemon Images, specifically the Official Sugimori Artwork.
  
- Built to work alongside the [PokéAPI](https://pokeapi.co/).
+ Built to work alongside the [PokéAPI](https://pokeapi.co/) in GraphQL.
  
  Main source is Bulbapedia for Images.
  
