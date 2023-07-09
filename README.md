@@ -15,7 +15,7 @@
  
  Main source is Bulbapedia for Images.
  
- <img src="https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/006-Gmax.png" width=200px/> <img src="https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/384-Mega.png" width=200px/> <img src="https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/807.png" width=200px/>
+ <img src="https://raw.githubusercontent.com/Varun-Singh14/Pokemon/master/assets/images/006-Gmax.png" width=200px/> <img src="https://raw.githubusercontent.com/Varun-Singh14/Pokemon/master/assets/images/384-Mega.png" width=200px/> <img src="https://raw.githubusercontent.com/Varun-Singh14/Pokemon/master/assets/images/807.png" width=200px/>
  
 # Currently Available:
  *All Forms Included*
@@ -39,15 +39,15 @@ Fetch base forms:
 ```
 SpeciesID.png (padded 000)
 ```
-https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/001.png
+https://raw.githubusercontent.com/Varun-Singh14/Pokemon/master/assets/images/001.png
 
 For Alternate Forms: 
 
 ```
 SpeciesID-FormName.png
 ```
-https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/006-Gmax.png
-https://raw.githubusercontent.com/HybridShivam/Pokemon/master/assets/images/254-Mega.png
+https://raw.githubusercontent.com/Varun-Singh14/Pokemon/master/assets/images/006-Gmax.png
+https://raw.githubusercontent.com/Varun-Singh14/Pokemon/master/assets/images/254-Mega.png
 
 Get the SpeciesID and Form-Name from PokeAPI and remember to follow Capital Casing with '-' delimiter.<br>
 e.g. 254-Mega , 800-Dawn, 569-Gmax, 413-Sandy, 006-Mega-X, 025-Rock-Star etc.*
